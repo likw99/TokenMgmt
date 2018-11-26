@@ -3,7 +3,7 @@ Beyond Token Management
 
 npm install
 
-export PRIVATE_KEY_MGR='<Your private key>'
+export PRIVATE_KEY_MGR='< your private key >'
 
 node 1_CheckAccountBalance
 
