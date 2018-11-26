@@ -1,0 +1,23 @@
+{
+  "name": "tokenmgmt",
+  "version": "1.0.0",
+  "description": "Beyond Token Management",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likw99/TokenMgmt.git"
+  },
+  "author": "K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likw99/TokenMgmt/issues"
+  },
+  "homepage": "https://github.com/likw99/TokenMgmt#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "fs": "0.0.1-security",
+    "web3": "^1.0.0-beta.36"
+  }
+}
